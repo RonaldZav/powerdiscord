@@ -1,6 +1,6 @@
 {
   "name": "powerdiscord",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your bot framework",
   "main": "lib/PowerDiscord.js",
   "author": "ronaldzav",
