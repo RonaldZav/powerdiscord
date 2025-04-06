@@ -1,7 +1,10 @@
 {
   "name": "powerdiscord",
   "version": "1.0.0",
+  "description": "Your bot framework",
   "main": "lib/PowerDiscord.js",
+  "author": "ronaldzav",
+  "license": "MIT",
   "bin": {
     "powerdiscord": "./bin/powerdiscord.js"
   },
@@ -11,5 +14,9 @@
     "express": "^5.1.0",
     "moment": "2.29.4",
     "mongodb": "^5.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronaldZav/powerdiscord.git"
   }
 }
